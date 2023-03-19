@@ -1,1 +1,3 @@
-This file is the requirements for the github version control demo task for Python Web Framework study.
+pandas==1.5.3
+streamlit==1.19.0
+numpy==1.24.2
